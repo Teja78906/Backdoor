@@ -1,0 +1,7 @@
+# requirements.txt
+
+socketio
+time
+subprocess
+json
+os
